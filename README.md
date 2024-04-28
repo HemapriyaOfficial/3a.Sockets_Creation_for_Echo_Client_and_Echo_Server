@@ -52,4 +52,3 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ![321734808-ce82cb7e-a0f2-4ca8-83b9-f1d1a86a1e11](https://github.com/HemapriyaOfficial/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147114275/3ee3d650-7350-4a4b-947c-da361f9c2851)
 
 ## RESULT
-Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
